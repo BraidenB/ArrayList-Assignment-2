@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Question1and2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=nums
+comment2.target=void\ primeNumbers(int)
+comment3.params=list
+comment3.target=void\ Goldbach(java.util.ArrayList)
+numComments=4
